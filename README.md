@@ -30,5 +30,3 @@ The game is a 3D/2.5D platformer where players collect food items for chicks. Th
 - 2D Casual UI HD: [Link to Asset](https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080#description)
 
 Please note that the links provided are for reference to the respective assets.
-
-Feel free to adjust the formatting and content as needed for your README file. Markdown allows for easy organization and readability of the information.
